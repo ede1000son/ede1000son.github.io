@@ -17,45 +17,46 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: SENAI/SC
+  title-url: https://sc.senai.br/
+  date: Jun 2018 - Present
+  subtitle: System Analyst
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Systems and Software Modeling
+    - tag: Docker
+    - tag: HTML/CSS
+    - tag: Python
+    - tag: Django
+    - tag: SQL
+    - tag: AZURE
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: SENAI/SC
+  title-url: https://sc.senai.br/
+  date: Jun 2018 - Jun 2021
+  subtitle: IT Instructor
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Google GSuite
+    - tag: Networking Services
+    - tag: Networking Servers
+    - tag: Networking Security
+    - tag: Databases
+    - tag: Operating Systemas
+    - tag: Software Modeling
+    - tag: Software Testing
+    - tag: IT Services Managing
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+ title: Wedo Technologies
+  title-url: https://www.mobileum.com/about/wedo-technologies-is-mobileum/
+  date: May 2015 - Jun 2018
+  subtitle: IT Consultant
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Revenue Assurance
+    - tag: Fraud Prevention
+    - tag: Mapping / Optimizing Process
+    - tag: ETL
+    - tag: BI
+    - tag: BI Dashboards / Reports
+    - tag: Technical Documentation
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
