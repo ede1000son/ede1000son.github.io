@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: ede1000son
+username: Edemilson (you can call me Ed)
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Fullstack Developer
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: ede1000son/ede1000son.github.io
+repository: ede1000son/memoryGameJS
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
