@@ -4,7 +4,6 @@
 # Example of a Language
 # - name: Language
 #   weight: 5
-
 - name: SQL
   weight: 4
 
