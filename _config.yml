@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Edemilson Website
+title: Edemilson' Profile
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -14,7 +14,7 @@ baseurl: ""
 username: Edemilson ( you can call me Ed )
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Fullstack Developer and System Analyst
+typing_text: Fullstack Developer
 # email: Your E-Mail address for the email button.
 email: edemilson@live.com
 # For every social button you want to display, set your username or userid
